@@ -18,7 +18,7 @@ To manage this flood of applications, companies use an **ATS (Applicant Tracking
 
 <br />
 
-> [!TIP]  
+> [!IMPORTANT]  
 > **Why it's important to understand ATS? 🤔**  
 >
 >Understanding how recruiters evaluate resumes helps you tailor yours effectively. Knowing how ATS works and affects resume evaluations can greatly improve your chances of making it through the initial screening.
@@ -54,7 +54,10 @@ This allows recruiters <ins>to quickly access key information about candidates w
 If ATS can't parse your resume correctly, your information may not display properly, increasing the likelihood that your resume is overlooked. Recruiters have limited time, and poorly parsed resumes are often ignored.
 </Callout>
 
-### 2. Knockout Questions and Filters
+<br />
+
+
+### <code style="color : gold">2. Knockout Questions and Filters</code>
 
 Recruiters want to focus only on resumes that meet the job requirements. **ATS allows recruiters to set questions that filter out unqualified candidates based on their responses**.
 
