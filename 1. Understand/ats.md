@@ -56,6 +56,7 @@ If ATS can't parse your resume correctly, your information may not display prope
 
 <br />
 
+### $${\color{orange}2.\ Knockout\ Questions\ and\ Filters}$$
 
 ### <code style="color : gold">2. Knockout Questions and Filters</code>
 
