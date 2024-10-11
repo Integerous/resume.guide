@@ -6,7 +6,7 @@ If you submit a resume that the ATS can't properly parse, no matter how impressi
 
 ## 🔒 5 Tips for Creating an ATS-friendly Resume
 
-<PremiumContent content="ats-friendly" />
+You can read this 👉 [here](https://www.resume.guide/en/understand/ats-friendly-resume)
 
 <br />
 
@@ -15,4 +15,4 @@ If you submit a resume that the ATS can't properly parse, no matter how impressi
 Here's a simple way to check if your resume is ATS-friendly. While I've tried many paid ATS-friendly resume testing services, this method is the easiest, most reliable, and best of all, it's free.
 
 
-<PremiumContent content="ats-validation" />
+You can read this 👉 [here](https://www.resume.guide/en/understand/ats-friendly-resume)
