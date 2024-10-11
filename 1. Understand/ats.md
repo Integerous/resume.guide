@@ -36,7 +36,6 @@ ATS extracts data from submitted resumes and stores it in a database, displaying
 
 <br />
 <div class="flex justify-center items-center">
-    {/* <img src="/img/ats/icims-old-parsing.jpeg" alt="ATS Resume Parsing" /> */}
     <img src="https://www.resume.guide/img/ats/icims-old-parsing.jpeg" alt="ATS Resume Parsing" />
 </div>
 
@@ -49,7 +48,7 @@ ATS extracts data from submitted resumes and stores it in a database, displaying
 
 > The example above shows how ATS parses a resume and scores the candidate's qualifications and role fit.
 
-This allows recruiters <span className="highlighter-red-10">to quickly access key information about candidates without needing to open each resume.</span>
+This allows recruiters <ins>to quickly access key information about candidates without needing to open each resume.</ins>
 
 <Callout type="error" emoji="📌">
 If ATS can't parse your resume correctly, your information may not display properly, increasing the likelihood that your resume is overlooked. Recruiters have limited time, and poorly parsed resumes are often ignored.
