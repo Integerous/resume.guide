@@ -56,9 +56,9 @@ If ATS can't parse your resume correctly, your information may not display prope
 
 <br />
 
-### $${\color{orange}2.\ Knockout\ Questions\ and\ Filters}$$
+### $${\color{orange}\textsf{2. Knockout Questions and Filters}}$$
 
-### <code style="color : gold">2. Knockout Questions and Filters</code>
+<code style="color : gold">2. Knockout Questions and Filters</code>
 
 Recruiters want to focus only on resumes that meet the job requirements. **ATS allows recruiters to set questions that filter out unqualified candidates based on their responses**.
 
