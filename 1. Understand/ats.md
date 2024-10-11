@@ -16,8 +16,11 @@ To manage this flood of applications, companies use an **ATS (Applicant Tracking
 - [Recruitee](https://recruitee.com)
 - [Ashby](https://www.ashbyhq.com)
 
+<br />
+
 > [!TIP]  
 > **Why it's important to understand ATS? 🤔**  
+>
 >Understanding how recruiters evaluate resumes helps you tailor yours effectively. Knowing how ATS works and affects resume evaluations can greatly improve your chances of making it through the initial screening.
 
 
