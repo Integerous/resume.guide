@@ -50,7 +50,7 @@ ATS extracts data from submitted resumes and stores it in a database, displaying
 
 This allows recruiters <ins>to quickly access key information about candidates without needing to open each resume.</ins>
 
-> [!WARNING]  
+> [!CAUTION]  
 >If ATS can't parse your resume correctly, your information may not display properly, increasing the likelihood that your resume is overlooked. Recruiters have limited time, and poorly parsed resumes are often ignored.
 
 <br />
