@@ -43,22 +43,19 @@ ATS extracts data from submitted resumes and stores it in a database, displaying
 
 <br />
 <div class="flex justify-center items-center">
-    <img src="/img/ats/icims-4.png" alt="iCIMS ATS" />
+    <img src="https://www.resume.guide/img/ats/icims-4.png" alt="iCIMS ATS" />
 </div>
 
 > The example above shows how ATS parses a resume and scores the candidate's qualifications and role fit.
 
 This allows recruiters <ins>to quickly access key information about candidates without needing to open each resume.</ins>
 
-<Callout type="error" emoji="📌">
-If ATS can't parse your resume correctly, your information may not display properly, increasing the likelihood that your resume is overlooked. Recruiters have limited time, and poorly parsed resumes are often ignored.
-</Callout>
+> [!WARNING]  
+>If ATS can't parse your resume correctly, your information may not display properly, increasing the likelihood that your resume is overlooked. Recruiters have limited time, and poorly parsed resumes are often ignored.
 
 <br />
 
-### $${\color{orange}\textsf{2. Knockout Questions and Filters}}$$
-
-<code style="color : gold">2. Knockout Questions and Filters</code>
+### 2. Knockout Questions and Filters
 
 Recruiters want to focus only on resumes that meet the job requirements. **ATS allows recruiters to set questions that filter out unqualified candidates based on their responses**.
 
