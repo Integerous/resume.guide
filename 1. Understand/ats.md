@@ -159,6 +159,6 @@ The Hiring Pipeline feature manages the entire process, from resume submission t
 
 ## 🤷‍♀️ Common Misunderstandings About ATS
 
-Some people believe that `**"ATS algorithms automatically evaluate and reject resumes."**`
+Some people believe that **`"ATS algorithms automatically evaluate and reject resumes."`**
 
-That's not true. ATS mainly parses resumes and filters candidates based on criteria set by the recruiter. While AI could evolve to take on more evaluation tasks, for now, <ins>recruiters simply don't see resumes that don't meet the ATS filters, but the system itself doesn't actually reject candidates.</ins>
+<ins>That's not true.</ins> ATS mainly parses resumes and filters candidates based on criteria set by the recruiter. While AI could evolve to take on more evaluation tasks, for now, <ins>recruiters simply don't see resumes that don't meet the ATS filters, but the system itself doesn't actually reject candidates.</ins>
