@@ -1,6 +1,6 @@
 # 🐶 How to Create an ATS-friendly Resume
 
-If you submit a resume that the ATS can't properly parse, no matter how impressive your skills and experience are, you may get overlooked at the resume stage. **Make sure your resume is ATS-friendly so the ATS can read it correctly.**
+If you submit a resume that the ATS can't properly parse, no matter how impressive your skills and experience are, you may get overlooked at the resume stage. <ins>**Make sure your resume is ATS-friendly so the ATS can read it correctly.**</ins>
 
 <br />
 
