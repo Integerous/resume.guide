@@ -30,6 +30,7 @@ To manage this flood of applications, companies use an **ATS (Applicant Tracking
 
 Let's look at some core features of ATS platforms and how they affect the resume evaluation process. While each ATS may differ slightly, most platforms offer the following features:
 
+<br />
 ### 1. Resume Parsing
 
 ATS extracts data from submitted resumes and stores it in a database, displaying key details to recruiters. This process is called **Resume Parsing**.
@@ -54,7 +55,6 @@ This allows recruiters <ins>to quickly access key information about candidates w
 >If ATS can't parse your resume correctly, your information may not display properly, increasing the likelihood that your resume is overlooked. Recruiters have limited time, and poorly parsed resumes are often ignored.
 
 <br />
-
 ### 2. Knockout Questions and Filters
 
 Recruiters want to focus only on resumes that meet the job requirements. **ATS allows recruiters to set questions that filter out unqualified candidates based on their responses**.
@@ -65,42 +65,41 @@ For example, if a Computer Science degree is required, and a candidate answers "
 
 <br />
 <div class="flex justify-center items-center">
-    <img src="/img/ats/knockout-questions1.png" alt="Knockout questions in ATS" />
+    <img src="https://www.resume.guide/img/ats/knockout-questions1.png" alt="Knockout questions in ATS" />
 </div>
 
 ⬆️ In the example above, questions about salary range, location, and visa sponsorship are used to filter candidates through the ATS based on the recruiter's pre-set criteria.
 
 <br />
 <div class="flex justify-center items-center">
-    <img src="/img/ats/screening-questions-1.png" alt="Screening questions in ATS" />
+    <img src="https://www.resume.guide/img/ats/screening-questions-1.png" alt="Screening questions in ATS" />
 </div>
 
 ⬆️ This example shows how ATS displays answers to knockout questions and even provides scores, making it easier for recruiters to filter candidates.
 
-<Callout type="error" emoji="📌">
-    **Examples of Knockout/Prescreen Questions:**
-
-    1. Do you have a Computer Science degree?
-    2. Proficiency in specific tech stacks?
-    3. Do you need visa sponsorship?
-    4. Are you located in a specific region (e.g., U.S. or certain states)?
-    5. Desired salary range?
-    6. Can you work onsite, remote, or hybrid?
-    7. Are you a U.S. citizen? (for specific industries like aerospace or defense)
-    8. Fluency in specific languages?
-    9. Industry experience (e.g., healthcare, finance, e-commerce)?
-</Callout>
+[!TIP]
+>**Examples of Knockout/Prescreen Questions:**
+>  
+>1. Do you have a Computer Science degree?
+>2. Proficiency in specific tech stacks?
+>3. Do you need visa sponsorship?
+>4. Are you located in a specific region (e.g., U.S. or certain states)?
+>5. Desired salary range?
+>6. Can you work onsite, remote, or hybrid?
+>7. Are you a U.S. citizen? (for specific industries like aerospace or defense)
+>8. Fluency in specific languages?
+>9. Industry experience (e.g., healthcare, finance, e-commerce)?
 
 These types of questions often appear when applying through LinkedIn Jobs as well.
 
 <br />
 <div class="flex justify-center items-center">
-    <img src="/img/ats/knockout-questions2.png" width="700" alt="Knockout questions in ATS" />
+    <img src="https://www.resume.guide/img/ats/knockout-questions2.png" alt="Knockout questions in ATS" />
 </div>
 
 <br />
 <div class="flex justify-center items-center">
-    <img src="/img/ats/knockout-questions3.png" width="700" alt="Knockout questions in ATS" />
+    <img src="https://www.resume.guide/img/ats/knockout-questions3.png" width="700" alt="Knockout questions in ATS" />
 </div>
 
 <br />
