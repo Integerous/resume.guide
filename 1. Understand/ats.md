@@ -3,7 +3,7 @@
 ## 🤖 What is ATS?
 When companies in the U.S. post a job, they often get hundreds or even thousands of resumes per day. But <ins>**where do all these resumes go, and how are they sorted?**</ins>
 
-To manage this flood of applications, companies use an **ATS (Applicant Tracking System)**, which is software that helps streamline the hiring process. Some of the most popular ATS platforms are:
+To manage this flood of applications, companies use an <ins>**ATS (Applicant Tracking System)**</ins>, which is software that helps streamline the hiring process. Some of the most popular ATS platforms are:
 
 - [Greenhouse](https://www.greenhouse.com)
 - [Lever](https://www.lever.co)
