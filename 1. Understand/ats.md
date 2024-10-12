@@ -94,7 +94,7 @@ These types of questions often appear when applying through LinkedIn Jobs as wel
 
 <br />
 <div class="flex justify-center items-center">
-    <img src="https://www.resume.guide/img/ats/knockout-questions2.png" alt="Knockout questions in ATS" />
+    <img src="https://www.resume.guide/img/ats/knockout-questions2.png" width="700" alt="Knockout questions in ATS" />
 </div>
 
 <br />
@@ -104,49 +104,49 @@ These types of questions often appear when applying through LinkedIn Jobs as wel
 
 <br />
 <div class="flex justify-center items-center">
-    <img src="/img/ats/knockout-questions4.png" width="700" alt="Knockout questions in ATS" />
+    <img src="https://www.resume.guide/img/ats/knockout-questions4.png" width="700" alt="Knockout questions in ATS" />
 </div>
 
+<br />
 ### 3. Managing the Hiring Pipeline
 
 The Hiring Pipeline feature manages the entire process, from resume submission to hiring.
 
 <br />
 <div class="flex justify-center items-center">
-    <img src="/img/ats/icims-1.png" alt="iCIMS ATS" />
+    <img src="https://www.resume.guide/img/ats/icims-1.png" alt="iCIMS ATS" />
 </div>
 
 <br />
 <div class="flex justify-center items-center">
-    <img src="/img/ats/icims-2.png" alt="iCIMS ATS" />
+    <img src="https://www.resume.guide/img/ats/icims-2.png" alt="iCIMS ATS" />
 </div>
 > ⬆️ The Hiring Pipeline screen in iCIMS ATS.
 
 <br />
 <div class="flex justify-center items-center">
-    <img src="/img/ats/icims-3.png" alt="iCIMS ATS" />
+    <img src="https://www.resume.guide/img/ats/icims-3.png" alt="iCIMS ATS" />
 </div>
 > ⬆️ Terms like `Select All of Tier 1` and `SHOW ONLY UNRANKED` indicate that **candidates can be ranked or tiered** within the ATS.
 
 <br />
 <div class="flex justify-center items-center">
-    <img src="/img/ats/workday-example.webp" alt="Workday ATS" />
+    <img src="https://www.resume.guide/img/ats/workday-example.webp" alt="Workday ATS" />
 </div>
 > ⬆️ The Hiring Pipeline screen in Workday ATS.
 
 <br />
 <div class="flex justify-center items-center">
-    <img src="/img/ats/recruitee-example.png" alt="Recruitee ATS" />
+    <img src="https://www.resume.guide/img/ats/recruitee-example.png" alt="Recruitee ATS" />
 </div>
 > ⬆️ The Hiring Pipeline screen in Recruitee ATS.
 
-<Callout type="error" emoji="📌">
-    **Even if you do well in an interview, you may not always get the job.**
-
-    Keep in mind that companies are evaluating many candidates in parallel. Even if you perform well, you could be passed over if there's someone just a bit stronger.
-
-    Hiring decisions are made not just based on your skills and experience, but also on how you compare to other candidates. **Luck plays a role**, so keeping this in mind can help you stay resilient during your job search.
-</Callout>
+[!CAUTION]
+>**Even if you do well in an interview, you may not always get the job.**
+>
+>Keep in mind that companies are evaluating many candidates in parallel. Even if you perform well, you could be passed over if there's someone just a bit stronger.
+>
+>Hiring decisions are made not just based on your skills and experience, but also on how you compare to other candidates. **Luck plays a role**, so keeping this in mind can help you stay resilient during your job search.
 
 <br />
 
@@ -154,5 +154,4 @@ The Hiring Pipeline feature manages the entire process, from resume submission t
 
 Some people believe that **"ATS algorithms automatically evaluate and reject resumes."**
 
-That's not true. ATS mainly parses resumes and filters candidates based on criteria set by the recruiter. While AI could evolve to take on more evaluation tasks, for now, <span className="highlighter-red-10">recruiters simply don't see resumes that don't meet the ATS filters, but the system itself doesn't actually reject candidates.</span>
-
+That's not true. ATS mainly parses resumes and filters candidates based on criteria set by the recruiter. While AI could evolve to take on more evaluation tasks, for now, <ins>recruiters simply don't see resumes that don't meet the ATS filters, but the system itself doesn't actually reject candidates.</ins>
