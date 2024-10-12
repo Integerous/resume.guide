@@ -1,7 +1,7 @@
 # 🤖 Understanding ATS
 
 ## 🤖 What is ATS?
-When companies in the U.S. post a job, they often get hundreds or even thousands of resumes per day. But **where do all these resumes go, and how are they sorted?**
+When companies in the U.S. post a job, they often get hundreds or even thousands of resumes per day. But <ins>**where do all these resumes go, and how are they sorted?**</ins>
 
 To manage this flood of applications, companies use an **ATS (Applicant Tracking System)**, which is software that helps streamline the hiring process. Some of the most popular ATS platforms are:
 
@@ -59,9 +59,9 @@ This allows recruiters <ins>to quickly access key information about candidates w
 
 ### 2. Knockout Questions and Filters
 
-Recruiters want to focus only on resumes that meet the job requirements. **ATS allows recruiters to set questions that filter out unqualified candidates based on their responses**.
+Recruiters want to focus only on resumes that meet the job requirements. <ins>**ATS allows recruiters to set questions that filter out unqualified candidates based on their responses**.</ins>
 
-This helps recruiters quickly evaluate candidates without opening resumes, and **some ATS platforms even score or filter candidates based on responses to knockout or prescreen questions**.
+This helps recruiters quickly evaluate candidates without opening resumes, and <ins>**some ATS platforms even score or filter candidates based on responses to knockout or prescreen questions**.</ins>
 
 For example, if a Computer Science degree is required, and a candidate answers "No" to a relevant question, the ATS may score that candidate lower or filter them out.
 
@@ -159,6 +159,6 @@ The Hiring Pipeline feature manages the entire process, from resume submission t
 
 ## 🤷‍♀️ Common Misunderstandings About ATS
 
-Some people believe that **"ATS algorithms automatically evaluate and reject resumes."**
+Some people believe that `**"ATS algorithms automatically evaluate and reject resumes."**`
 
 That's not true. ATS mainly parses resumes and filters candidates based on criteria set by the recruiter. While AI could evolve to take on more evaluation tasks, for now, <ins>recruiters simply don't see resumes that don't meet the ATS filters, but the system itself doesn't actually reject candidates.</ins>
