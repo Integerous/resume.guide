@@ -19,7 +19,7 @@ To manage this flood of applications, companies use an **ATS (Applicant Tracking
 <br />
 
 > [!IMPORTANT]  
-> **Why it's important to understand ATS? 🤔**  
+>**Why it's important to understand ATS? 🤔**  
 >
 >Understanding how recruiters evaluate resumes helps you tailor yours effectively. Knowing how ATS works and affects resume evaluations can greatly improve your chances of making it through the initial screening.
 
@@ -31,20 +31,21 @@ To manage this flood of applications, companies use an **ATS (Applicant Tracking
 Let's look at some core features of ATS platforms and how they affect the resume evaluation process. While each ATS may differ slightly, most platforms offer the following features:
 
 <br />
+
 ### 1. Resume Parsing
 
 ATS extracts data from submitted resumes and stores it in a database, displaying key details to recruiters. This process is called **Resume Parsing**.
 
 <br />
 <div class="flex justify-center items-center">
-    <img src="https://www.resume.guide/img/ats/icims-old-parsing.jpeg" alt="ATS Resume Parsing" />
+    <img src="https://www.resume.guide/img/ats/icims-old-parsing.jpeg" width="700" alt="ATS Resume Parsing" />
 </div>
 
 > The example above shows how ATS parses a resume to display the candidate's name, location, current role, and highest education in a list format.
 
 <br />
 <div class="flex justify-center items-center">
-    <img src="https://www.resume.guide/img/ats/icims-4.png" alt="iCIMS ATS" />
+    <img src="https://www.resume.guide/img/ats/icims-4.png" width="700" alt="iCIMS ATS" />
 </div>
 
 > The example above shows how ATS parses a resume and scores the candidate's qualifications and role fit.
@@ -55,6 +56,7 @@ This allows recruiters <ins>to quickly access key information about candidates w
 >If ATS can't parse your resume correctly, your information may not display properly, increasing the likelihood that your resume is overlooked. Recruiters have limited time, and poorly parsed resumes are often ignored.
 
 <br />
+
 ### 2. Knockout Questions and Filters
 
 Recruiters want to focus only on resumes that meet the job requirements. **ATS allows recruiters to set questions that filter out unqualified candidates based on their responses**.
@@ -65,19 +67,19 @@ For example, if a Computer Science degree is required, and a candidate answers "
 
 <br />
 <div class="flex justify-center items-center">
-    <img src="https://www.resume.guide/img/ats/knockout-questions1.png" alt="Knockout questions in ATS" />
+    <img src="https://www.resume.guide/img/ats/knockout-questions1.png" width="700" alt="Knockout questions in ATS" />
 </div>
 
 ⬆️ In the example above, questions about salary range, location, and visa sponsorship are used to filter candidates through the ATS based on the recruiter's pre-set criteria.
 
 <br />
 <div class="flex justify-center items-center">
-    <img src="https://www.resume.guide/img/ats/screening-questions-1.png" alt="Screening questions in ATS" />
+    <img src="https://www.resume.guide/img/ats/screening-questions-1.png" width="700" alt="Screening questions in ATS" />
 </div>
 
 ⬆️ This example shows how ATS displays answers to knockout questions and even provides scores, making it easier for recruiters to filter candidates.
 
-[!TIP]
+> [!TIP]
 >**Examples of Knockout/Prescreen Questions:**
 >  
 >1. Do you have a Computer Science degree?
@@ -108,40 +110,45 @@ These types of questions often appear when applying through LinkedIn Jobs as wel
 </div>
 
 <br />
+
 ### 3. Managing the Hiring Pipeline
 
 The Hiring Pipeline feature manages the entire process, from resume submission to hiring.
 
 <br />
 <div class="flex justify-center items-center">
-    <img src="https://www.resume.guide/img/ats/icims-1.png" alt="iCIMS ATS" />
+    <img src="https://www.resume.guide/img/ats/icims-1.png" width="700" alt="iCIMS ATS" />
 </div>
 
 <br />
 <div class="flex justify-center items-center">
-    <img src="https://www.resume.guide/img/ats/icims-2.png" alt="iCIMS ATS" />
+    <img src="https://www.resume.guide/img/ats/icims-2.png" width="700" alt="iCIMS ATS" />
 </div>
+
 > ⬆️ The Hiring Pipeline screen in iCIMS ATS.
 
 <br />
 <div class="flex justify-center items-center">
-    <img src="https://www.resume.guide/img/ats/icims-3.png" alt="iCIMS ATS" />
+    <img src="https://www.resume.guide/img/ats/icims-3.png" width="700" alt="iCIMS ATS" />
 </div>
+
 > ⬆️ Terms like `Select All of Tier 1` and `SHOW ONLY UNRANKED` indicate that **candidates can be ranked or tiered** within the ATS.
 
 <br />
 <div class="flex justify-center items-center">
-    <img src="https://www.resume.guide/img/ats/workday-example.webp" alt="Workday ATS" />
+    <img src="https://www.resume.guide/img/ats/workday-example.webp" width="700" alt="Workday ATS" />
 </div>
+
 > ⬆️ The Hiring Pipeline screen in Workday ATS.
 
 <br />
 <div class="flex justify-center items-center">
-    <img src="https://www.resume.guide/img/ats/recruitee-example.png" alt="Recruitee ATS" />
+    <img src="https://www.resume.guide/img/ats/recruitee-example.png" width="700" alt="Recruitee ATS" />
 </div>
+
 > ⬆️ The Hiring Pipeline screen in Recruitee ATS.
 
-[!CAUTION]
+> [!CAUTION]
 >**Even if you do well in an interview, you may not always get the job.**
 >
 >Keep in mind that companies are evaluating many candidates in parallel. Even if you perform well, you could be passed over if there's someone just a bit stronger.
