@@ -1,5 +1,5 @@
 <h1 align="center"> <i>resume.guide</i> </h1>
-💯 Step-by-step resume guide for software engineers
+<p align="center">💯 Step-by-step resume guide for software engineers</p>
 
 
 ---
