@@ -6,17 +6,17 @@
       style="margin-right: 10px;" />
     <i>resume.guide</i>
   </h1>
-  <a href="https://www.resume.guide/?ref=github.com">
+  <!-- <a href="https://www.resume.guide/?ref=github.com">
     <img 
       src="https://github.com/Integerous/images/blob/master/cover-image2.png?raw=true" 
       alt="Resume Guide" 
       width="700" 
     />
   </a>
-  <br />
+  <br /> -->
   <p>💯 Step-by-step resume guide for software engineers</p>
   <h3>
-    <a href="https://www.resume.guide/?ref=github.com">Read on the website</a>
+    <a href="https://www.resume.guide/?ref=github.com">Read on the website 👈</a>
   </h3>
 </div>
 
