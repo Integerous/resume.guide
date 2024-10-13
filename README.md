@@ -1,6 +1,10 @@
 <div align="center">
   <h1><i>resume.guide</i></h1>
   <p>💯 Step-by-step resume guide for software engineers</p>
+  <a href="https://www.resume.guide/?ref=github.com">
+    <img src="https://github.com/Integerous/images/blob/master/cover-image2.png?raw=true" alt="Resume Guide" width="700" />
+  </a>
+  <br />
   <h3>
     <a href="https://www.resume.guide/?ref=github.com">Read on the website</a>
   </h3>
