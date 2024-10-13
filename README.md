@@ -1,6 +1,7 @@
 <div align="center">
   <h1 style="display: flex; align-items: center; justify-content: center;">
     <img 
+      align="center"
       src="https://raw.githubusercontent.com/Integerous/images/833f66b3d50bfbe5e6a0ecfac1115d6994c9e3c2/icon.svg"
       width="40" 
       style="margin-right: 10px;" />
