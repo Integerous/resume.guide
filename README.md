@@ -2,24 +2,17 @@
   <img 
       align="center"
       src="https://raw.githubusercontent.com/Integerous/images/833f66b3d50bfbe5e6a0ecfac1115d6994c9e3c2/icon.svg"
-      width="50" 
+      width="70" 
       style="margin-right: 10px;" 
   />
   <h1>
     <i>resume.guide</i>
   </h1>
-  <!-- <a href="https://www.resume.guide/?ref=github.com">
-    <img 
-      src="https://github.com/Integerous/images/blob/master/cover-image2.png?raw=true" 
-      alt="Resume Guide" 
-      width="700" 
-    />
-  </a>
-  <br /> -->
-  <p>💯 Step-by-step resume guide for software engineers</p>
-  <h3>
+  <br />
+  <h3>💯 Step-by-step resume guide for software engineers</h3>
+  <h4>
     <a href="https://www.resume.guide/?ref=github.com">Read on the website 👈</a>
-  </h3>
+  </h4>
 </div>
 
 ---
