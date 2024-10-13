@@ -3,7 +3,7 @@
     <img 
       align="center"
       src="https://raw.githubusercontent.com/Integerous/images/833f66b3d50bfbe5e6a0ecfac1115d6994c9e3c2/icon.svg"
-      width="40" 
+      width="45" 
       style="margin-right: 10px;" />
     <i align="center">resume.guide</i>
   </h1>
